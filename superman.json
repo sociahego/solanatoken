@@ -2,7 +2,7 @@
   "name": "SUPERMAN CRYPTO",
   "symbol": "SUPERC",
   "description": "Superman & Crypto movie 2025",
-  "image": "https://raw.githubusercontent.com/sociahego/solanatoken/main/superman_icon.png",
+  "image": "https://raw.githubusercontent.com/sociahego/solanatoken/main/superman_icon_fixed.png",
   "seller_fee_basis_points": 0,
   "creators": [
     {
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/sociahego/solanatoken/main/superman_icon.png",
+        "uri": "https://raw.githubusercontent.com/sociahego/solanatoken/main/superman_icon_fixed.png",
         "type": "image/png"
       }
     ],
