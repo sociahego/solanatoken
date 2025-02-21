@@ -1,7 +1,7 @@
 {
-  "name": "SUPERMAN CRYPTO",
+  "name": "SUPERMAN KRYPTO",
   "symbol": "SUPERC",
-  "description": "Superman & Crypto movie 2025",
+  "description": "Superman & Krypto movie 2025",
   "image": "https://raw.githubusercontent.com/sociahego/solanatoken/main/superman_icon_fixed.png",
   "seller_fee_basis_points": 0,
   "creators": [
@@ -24,8 +24,8 @@
   },
   "extensions": {
     "website": "https://sites.google.com/view/supermancrypto",
-    "twitter": "https://twitter.com/crypto_sup44453",
-    "x": "https://x.com/crypto_sup44453",
+    "twitter": "https://twitter.com/SupermanKripto",
+    "x": "https://x.com/SupermanKripto",
     "telegram": "https://t.me/supermancrypto2025"
   }
 }
